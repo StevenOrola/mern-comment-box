@@ -1,13 +1,3 @@
-## MERN Comment Box
-
-Comment box created using a MERN stack
-
-![mapPicture](https://i.imgur.com/4PBxmgl.png)
-
-## Authors
-
-Steven Orola
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
